@@ -1,0 +1,3 @@
+# Exceptions
+/.ipynb_checkpoints
+practice.ipynb
