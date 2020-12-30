@@ -1,9 +1,9 @@
 # thumbnail_generator
-> Automatic thumbnail generating program for Youtube
+> Automatic thumbnail generating program for Youtube  
 for ybigta 2020-2 Conference  
 
 # Why?
-- Individual streamers want to upload their streaming video to Toutube
+- Individual streamers want to upload their streaming video to Youtube
 - However, it is difficult to make thumbnial for Youtube for the streamers who don't have their own broadcast editor
 - THEN, how about a program which can make high-quality thumbnail AUTOMATICALLY?
 
@@ -24,7 +24,7 @@ for ybigta 2020-2 Conference
   - Used Twitch API to get comments of twitch videos
   - Got time, nickname, and chatting contents from comments
 - Preprocssing
-  - Committed feature engineering for highlight detection
+  - Committed feature engineering for highlight detection  
   <div>
   <img width="750" src=https://user-images.githubusercontent.com/61009073/103359055-79c27a80-4afa-11eb-85f7-0d092acc89d4.png>
   </div>
