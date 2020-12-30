@@ -4,7 +4,7 @@ for ybigta 2020-2 Conference
 
 # Why?
 - Individual streamers want to upload their streaming video to Youtube
-- However, it is difficult to make thumbnial for Youtube for the streamers who don't have their own broadcast editor
+- However, it is difficult to make Youtube thumbnail for the streamers who don't have their own broadcast editor
 - THEN, how about a program which can make high-quality thumbnail AUTOMATICALLY?
 
 # How?
