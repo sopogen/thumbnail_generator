@@ -1,4 +1,4 @@
-# thumbnail_generator
+# Youtube Thumbnail Generator
 > Automatic thumbnail generating program for Youtube  
 for ybigta 2020-2 Conference  
 
@@ -12,7 +12,9 @@ for ybigta 2020-2 Conference
 <img width="750" src="https://user-images.githubusercontent.com/61009073/103165819-aa3ab800-485f-11eb-845e-0ac5abf798d2.png">
 </div>
 
-## Specific Processes
+# Results?
+
+# Specific Processes?
 - [Getting comments and preprocessing](https://github.com/sopogen/thumbnail_generator#Getting-comments-and-preprocessing)
 - [Highlight extraction](https://github.com/sopogen/thumbnail_generator#Highlight-extraction)
 - [Selecting thumbnail image](https://github.com/sopogen/thumbnail_generator#Selecting-thumbnail-image)
@@ -30,12 +32,24 @@ for ybigta 2020-2 Conference
   </div>
   
 # Highlight extraction
-- 
+- Highlight detection
+  - Utilitized anomaly detection to get highlight area from video
+  - Isolation Forest was the best model for the task
+  - Removed anomalies which are not hightlights. Ex) start of the video
+- Extracting highlights
+  - Used twitch licker software to get specific period of video
 
 # Selecting thumbnail image
+- Face detection
+  - 
+- Emotion detection
+
 
 # Selecting thumbnail typography
+- Keyword extraction
+
 
 # Making thumbnail
+- Object seperation
 
 # References
