@@ -45,13 +45,13 @@ for ybigta 2020-2 Conference
 # Selecting thumbnail image
 > Select thumbnail image as the scene which streamer showing extreme emotions
 - Face detection
-  - Used Haar Cascade Classifier to detect streamers' face in a video
+  - Used Haar Cascade Classifier to detect streamers' face in a video  
   <div>
   <img width="400" src="https://user-images.githubusercontent.com/61009073/103433871-59023e00-4c3c-11eb-9f17-2ad1e320012a.png">
   </div>  
 - Emotion classifcation
   - Committed CNN-based emotion classification
-  - Seleceted the moment streamers' emotion percentages are extremely high
+  - Seleceted the moment streamers' emotion percentages are extremely high  
   <div> 
   <img width="400" src="https://user-images.githubusercontent.com/61009073/103434448-bf8b5a00-4c44-11eb-8956-87c682c7aca7.png">
   </div>
@@ -59,7 +59,7 @@ for ybigta 2020-2 Conference
 # Selecting thumbnail typography
 - Keyword extraction
   - Extracted keyword frequently commented from comments
-  - Used Soynlp package to apply gramatical whitespaces to the comments
+  - Used Soynlp package to apply gramatical whitespaces to the comments  
   <div>
   <img width="400" src="https://user-images.githubusercontent.com/61009073/103434495-5d7f2480-4c45-11eb-87ba-f00cff6ac576.png">
   </div>
@@ -67,11 +67,11 @@ for ybigta 2020-2 Conference
 # Making thumbnail
 - Object seperation
   - Used sematic segmentation to seperate people and background
-  - Combined new background based on extracted keyword
+  - Combined new background based on extracted keyword  
   <div>
   <img width="750" src="https://user-images.githubusercontent.com/61009073/103434594-0ed28a00-4c47-11eb-9350-2f1453e287bb.png">
   </div>
-- Combine typography with thumbnail
+- Combine typography with thumbnail  
   <div>
   <img width="750" src="https://user-images.githubusercontent.com/61009073/103434612-4f320800-4c47-11eb-88c6-19eba0cf1b69.png">
   </div>
