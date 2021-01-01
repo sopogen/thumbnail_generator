@@ -2,7 +2,7 @@
 <div>
 <img width="750" src="https://user-images.githubusercontent.com/61009073/103433785-c01ef300-4c3a-11eb-959b-481dcc6b1248.png">
 </div>
->Automatic thumbnail generating program for Youtube  
+> Automatic thumbnail generating program for Youtube  
 for ybigta 2020-2 Conference  
 
 
