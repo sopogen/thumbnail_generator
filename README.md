@@ -77,6 +77,6 @@ for ybigta 2020-2 Conference
   </div>
 
 # References
-[Adaptive Video Highlight Detection by Learning from User History](https://arxiv.org/abs/2007.09598)
-[Highlight Detection using Linguistic Features of Real-time Korean Game Audience Chat](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART96173440&dbt=NART)
-[An Automatic Extraction System of Streaming Broadcasting Highlight Section Using User Chat Data](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874604)
+- [Adaptive Video Highlight Detection by Learning from User History](https://arxiv.org/abs/2007.09598)  
+- [Highlight Detection using Linguistic Features of Real-time Korean Game Audience Chat](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART96173440&dbt=NART)  
+- [An Automatic Extraction System of Streaming Broadcasting Highlight Section Using User Chat Data](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874604)  
